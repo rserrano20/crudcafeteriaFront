@@ -1,0 +1,22 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "cafe",
+      "precioProducto": "300",
+      "categoria": "bebida-caliente",
+      "id": 2
+    },
+    {
+      "nombreProducto": "facturas con dulce de leche",
+      "precioProducto": "130",
+      "categoria": "dulce",
+      "id": 4
+    },
+    {
+      "nombreProducto": "late",
+      "precioProducto": "400",
+      "categoria": "dulce",
+      "id": 5
+    }
+  ]
+}

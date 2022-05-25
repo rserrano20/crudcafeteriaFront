@@ -1,0 +1,18 @@
+.label{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 400px;
+}
+h3{ font-family: 'Gloria Hallelujah', cursive;
+    font-size: 200px;
+}
+Nav,footer{
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+.container{
+    background: rgba(243,226,199,1);
+}
